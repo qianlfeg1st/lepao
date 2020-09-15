@@ -1,0 +1,97 @@
+<view class="main">
+
+  <view class="main__today">
+    <view class="main__today__step">8000</view>
+    <view class="main__today__text">今日步数</view>
+  </view>
+
+  <image class="main__exchange" src="../../images/index/exchange.png" />
+
+  <view class="main__function1" style="left: 0">
+    <image src="../../images/index/function.png" />
+    <view class="main__function1__text">偷步数</view>
+  </view>
+
+  <view class="main__function">
+    <image src="../../images/index/function.png" />
+    <view class="main__function1__text">邀请同事步数增加 5%</view>
+  </view>
+
+  <view class="main__function1" style="right: 0">
+    <image src="../../images/index/function.png" />
+    <view class="main__function1__text">赚步数</view>
+  </view>
+
+  <view class="main__user">
+    <image class="main__user__avater" src="../../test.jpg" />
+    <view class="main__user__point">534200</view>
+    <view class="main__user__text">积分</view>
+  </view>
+
+  <view class="main__notify">
+    <image class="main__notify__icon" src="../../images/index/notify.png" />
+    <view class="main__notify__text">亲爱的同事们，本月积分将在31号清零，请尽快兑换使用！</view>
+  </view>
+
+  <view class="main__track02">
+    <image class="main__track02__img" src="../../images/index/track02.png" />
+    <view class="main__track02__text">赚步数</view>
+  </view>
+
+  <view class="main__track01">
+    <image class="main__track01__img" src="../../images/index/track02.png" />
+    <view class="main__track01__text">偷步数</view>
+  </view>
+
+  <view class="main__bubble01 center">+500</view>
+
+  <view class="main__bubble02 center">+200</view>
+
+</view>
+
+<barrage class="barrage" />
+
+<view class="line"></view>
+
+<view class="goods">
+
+  <view class="goods__wrap">
+    <image class="goods__wrap__img" src="../../images/index/bg.jpg" mode="aspectFill" />
+
+    <view class="goods__wrap__title">测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试</view>
+
+    <view class="goods__wrap__info">
+      <view class="goods__wrap__info__point">4000</view>
+      <view class="goods__wrap__info__num center">剩余数量 11113</view>
+    </view>
+
+    <view class="goods__wrap__btn center">立即兑换</view>
+  </view>
+
+  <view class="goods__wrap">
+    <image class="goods__wrap__img" src="../../images/index/bg.jpg" mode="aspectFill" />
+
+    <view class="goods__wrap__title">测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试</view>
+
+    <view class="goods__wrap__info">
+      <view class="goods__wrap__info__point">4000</view>
+      <view class="goods__wrap__info__num center">剩余数量 11113</view>
+    </view>
+
+    <view class="goods__wrap__btn center">立即兑换</view>
+  </view>
+
+  <view class="goods__wrap">
+    <image class="goods__wrap__img" src="../../images/index/bg.jpg" mode="aspectFill" />
+
+    <view class="goods__wrap__title">测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试</view>
+
+    <view class="goods__wrap__info">
+      <view class="goods__wrap__info__point">4000</view>
+      <view class="goods__wrap__info__num center">剩余数量 11113</view>
+    </view>
+
+    <view class="goods__wrap__btn center">立即兑换</view>
+  </view>
+
+</view>

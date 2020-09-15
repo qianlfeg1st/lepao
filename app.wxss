@@ -1,0 +1,13 @@
+view, image {
+  box-sizing: border-box;
+}
+
+image {
+  display: block;
+}
+
+.center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

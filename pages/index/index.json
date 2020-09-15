@@ -1,3 +1,9 @@
 {
-  "usingComponents": {}
+  "navigationBarTitleText": "乐跑健康",
+  "navigationBarTextStyle": "white",
+  "navigationBarBackgroundColor": "#19aefe",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "barrage": "miniprogram-barrage"
+  }
 }
