@@ -1,13 +1,14 @@
 {
-  "pages":[
+  "pages": [
     "pages/index/index",
-    "pages/demo/demo"
+    "pages/demo/demo",
+    "pages/ranking/ranking"
   ],
-  "window":{
-    "backgroundTextStyle":"light",
+  "window": {
+    "backgroundTextStyle": "light",
     "navigationBarBackgroundColor": "#fff",
     "navigationBarTitleText": "",
-    "navigationBarTextStyle":"black"
+    "navigationBarTextStyle": "black"
   },
   "style": "v2",
   "sitemapLocation": "sitemap.json"

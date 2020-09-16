@@ -1,5 +1,24 @@
 {
   "dependencies": {
+    "@antv/f2-canvas": "^1.0.5",
     "miniprogram-barrage": "^1.1.0"
-  }
+  },
+  "name": "lepao",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qianlfeg1st/lepao.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qianlfeg1st/lepao/issues"
+  },
+  "homepage": "https://github.com/qianlfeg1st/lepao#readme",
+  "description": ""
 }
