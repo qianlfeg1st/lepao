@@ -1,0 +1,46 @@
+<view class="header">
+
+  <image class="header__bg" src="../../images/personal/bg.png" />
+
+  <view class="header__user">
+    <image class="header__avater" src="../../test.jpg" />
+    <view class="header__info">
+      <view class="header__nick">蹦跶巴拉巴拉</view>
+      <view class="header__label center">比亚迪HR经理</view>
+    </view>
+  </view>
+
+  <view class="header__title">
+    <image class="header__title__icon" src="../../images/personal/points.png" />
+    <view class="header__title__text">我的积分</view>
+  </view>
+
+  <view class="header__points">123,242</view>
+
+  <view class="header__exchange center">去兑换</view>
+
+</view>
+
+<view class="main">
+
+  <view class="main__wrap">
+    <view class="main__left">
+      <image class="main__icon" src="../../images/personal/01.png" />
+      <view class="main__title">我兑换的商品</view>
+    </view>
+    <view class="main__right">
+      <view class="main__status">已绑定</view>
+    </view>
+  </view>
+
+  <view class="main__wrap">
+    <view class="main__left">
+      <image class="main__icon" src="../../images/personal/01.png" />
+      <view class="main__title">我兑换的商品</view>
+    </view>
+    <view class="main__right">
+      <view class="main__arrow"></view>
+    </view>
+  </view>
+
+</view>
